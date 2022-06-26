@@ -1,0 +1,108 @@
+[30-Oct-2021 22:35:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[30-Oct-2021 22:35:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[30-Oct-2021 22:35:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 10:56:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 03:56:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 62
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 63
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 65
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 66
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 67
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 68
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 69
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 70
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 71
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 72
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 141
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 142
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 188
+[06-Nov-2021 10:56:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 209
+[06-Nov-2021 10:56:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 03:56:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 62
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 63
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 65
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 66
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 67
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 68
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 69
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 70
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 71
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 72
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 141
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 142
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 188
+[06-Nov-2021 10:56:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 209
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2324053 in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 52
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 53
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 03:56:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 54
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 62
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 63
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 65
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 66
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 67
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 68
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 69
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 70
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 71
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 72
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 96
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 114
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 141
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 142
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2324053 in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 188
+[06-Nov-2021 10:56:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 209
+[06-Nov-2021 10:56:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[06-Nov-2021 10:56:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 167
+[06-Nov-2021 10:56:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/index.php on line 168
+[16-Nov-2021 12:18:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[16-Nov-2021 19:18:22 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on boolean in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/tambah.php on line 11
+[17-Nov-2021 08:43:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[17-Nov-2021 15:43:22 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on boolean in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/tambah.php on line 11
+[11-Dec-2021 03:15:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/koneksi.php on line 6
+[11-Dec-2021 10:15:03 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on boolean in /home/sundeywe/public_html/Monitoring_Suhu_Kelembaban/tambah.php on line 11

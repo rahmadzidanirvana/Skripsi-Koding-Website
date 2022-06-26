@@ -1,0 +1,30 @@
+.navbar-brand {
+	font-family: 'Train One', cursive;
+	font-size: 20px;
+}
+
+#chart {
+	background-color: #e9f8ff;
+}
+
+#table {
+	margin-top: -30px;
+	background-color: #0d6efd;
+}
+
+footer span {
+	font-weight: 500;
+	color: black;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+footer a span:hover {
+	color: blue;
+}
+
+section {
+	padding-top: 80px;
+}
